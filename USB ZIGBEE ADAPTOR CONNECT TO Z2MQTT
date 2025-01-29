@@ -1,4 +1,4 @@
-# Installation instructions for Zigbee2MQTT
+# Installation commands for Zigbee2MQTT
 # Change location of mosquitto container if required.
 # Change Time Zone as required
 
