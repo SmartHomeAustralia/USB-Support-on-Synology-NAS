@@ -2,7 +2,6 @@
 https://github.com/robertklep/dsm7-usb-serial-drivers/tree/main/modules/
 
 # USB Supported Commands (individual - you can script if required)
-
 sudo su
 
 # load the usbserial kernel module.
